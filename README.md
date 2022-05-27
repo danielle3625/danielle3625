@@ -13,7 +13,7 @@
 * KB Productions offers live music staffing, horn section arrangements, and horn sections for hire.     
 * www.kaseyballproductions.com   
 
-#### _**Benefits Administrator: Registrar of Voters Employees Retirement System (ROVERS)**_	<p align="right"> March 2021 - Present
+#### _**Benefits Administrator: Registrars of Voters Employees Retirement System (ROVERS)**_	<p align="right"> March 2021 - Present
 	
  * Run Benefit Payroll
  * Balance and Deposit all employee/employer contributions
