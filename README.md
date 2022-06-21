@@ -30,7 +30,7 @@
  * Marketing: Musician recruitment and performance promotion
  * Grant Writing
  * Oversee performances from start to finish: secure venue, secure event insurance, oversee transportation of equipment, oversee setup/tear down, quality control of  performance presentation
- * www.civicorchbr.org
+ * www.civicorchestrabr.org
 		
 #### _**Retirement Benefits Analyst: Municipal Police Employees’ Retirement System (MPERS)**_	<p align="right"> Nov 2017 - Nov 2020
 * Assisted software developer team TEGRIT to design, test, and implement a custom commissioned pension administrative software that auto calculated benefits based on enrollment tier, auto detected contribution submission errors, included both employer reporting and member portals, and tied in to cloud document storage 
