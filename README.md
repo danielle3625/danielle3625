@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillset. 
 - 📫 You may reach me by email: danielle3625@gmail.com
-- PDF Resume Link [HERE](https://drive.google.com/file/d/1ZakCnlrW6PmHUIxiZb41JKGG3Fs0TlyF/view?usp=sharing)  
+- PDF Resume Link [HERE](https://drive.google.com/file/d/1tM9B9hW65Fx4Ac_rYRhqO-Jfs33ZRUFj/view?usp=sharing)  
 
 ## <p align="center"> **Work Experience**   
 
@@ -11,7 +11,7 @@
 #### _**Co-Owner: KB Productions LLC**_ <p align="right">January 2022 - Present
 	
 * KB Productions offers live music staffing, horn section arrangements, and horn sections for hire. 
-* Keep Books, develop website, run payroll, produce 1099s for contract employees
+* Maintain books, develop website, run payroll, produce 1099s for contract employees
 * www.kaseyballproductions.com   
 
 #### _**Benefits Administrator: Registrars of Voters Employees Retirement System (ROVERS)**_	<p align="right"> March 2021 - Present
