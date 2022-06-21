@@ -10,7 +10,8 @@
 
 #### _**Co-Owner: KB Productions LLC**_ <p align="right">January 2022 - Present
 	
-* KB Productions offers live music staffing, horn section arrangements, and horn sections for hire.     
+* KB Productions offers live music staffing, horn section arrangements, and horn sections for hire. 
+* Keep Books, develop website, run payroll, produce 1099s for contract employees
 * www.kaseyballproductions.com   
 
 #### _**Benefits Administrator: Registrars of Voters Employees Retirement System (ROVERS)**_	<p align="right"> March 2021 - Present
@@ -29,6 +30,7 @@
  * Marketing: Musician recruitment and performance promotion
  * Grant Writing
  * Oversee performances from start to finish: secure venue, secure event insurance, oversee transportation of equipment, oversee setup/tear down, quality control of  performance presentation
+ * www.civicorchbr.org
 		
 #### _**Retirement Benefits Analyst: Municipal Police Employees’ Retirement System (MPERS)**_	<p align="right"> Nov 2017 - Nov 2020
 * Assisted software developer team TEGRIT to design, test, and implement a custom commissioned pension administrative software that auto calculated benefits based on enrollment tier, auto detected contribution submission errors, included both employer reporting and member portals, and tied in to cloud document storage 
