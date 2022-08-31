@@ -1,10 +1,15 @@
 - 👋 Hi, I’m Danielle Ball! 
-- 👀 I’m interested in changing careers via self taught programming languages. 
+- 👀 As far as careers go, I’m interested in data science, machine learning, and coding! I'm also very interested in my husband Kasey, music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! ❤️
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects that will help me grow my skillset. 
+- 💞️ I’m looking to collaborate on projects that will help me grow my skillsets. 
 - 📫 You may reach me by email: danielle3625@gmail.com
 - PDF Resume Link [HERE](https://drive.google.com/file/d/1tM9B9hW65Fx4Ac_rYRhqO-Jfs33ZRUFj/view?usp=sharing)  
 
+## <p align="center"> **Certificates**
+[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-e04da9d1-289d-44db-9c1f-64631ddc5d6b/)
+
+#
+#
 ## <p align="center"> **Work Experience**   
 
 
