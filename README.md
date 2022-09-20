@@ -7,6 +7,8 @@
 
 ## <p align="center"> **Certificates**
 [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-e04da9d1-289d-44db-9c1f-64631ddc5d6b/)
+	
+[FreeCodeCamp Scientific Computing with Python](https://freecodecamp.org/certification/danielle3625/scientific-computing-with-python-v7)
 
 #
 #
