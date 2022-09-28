@@ -10,6 +10,8 @@
 	
 [FreeCodeCamp Scientific Computing with Python](https://freecodecamp.org/certification/danielle3625/scientific-computing-with-python-v7)
 
+[The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-c3d7ba83-316c-40ed-a787-9760bfc46cc4/)
+
 #
 #
 ## <p align="center"> **Work Experience**   
