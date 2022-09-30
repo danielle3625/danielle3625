@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danielle Ball! 
-- 👀 As far as careers go, I’m interested in data science, machine learning, and coding! I'm also very interested in my husband [Kasey](www.kaseyballproductions.com ), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! ❤️
+- 👀 As far as careers go, I’m interested in data science, machine learning, and coding! I'm also very interested in my husband [Kasey]([www.kaseyballproductions.com](https://www.kaseyballproductions.com/) ), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! ❤️
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillsets. 
 - 📫 You may reach me by email: danielle3625@gmail.com
