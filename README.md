@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Danielle Ball! 
+- Seeking to enrich the lives of others and community through all that I do. 
+- Passionate about building a better tomorrow, a better community. I believe it takes disruptive ideas, conscious capitalism, hard work, collaboration and faith to achieve it.
 - 👀 As far as careers go, I’m interested in data science, machine learning, and coding! I'm also very interested in my husband [Kasey](https://www.kaseyballproductions.com/), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! ❤️
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillsets. 
 - 📫 You may reach me by email: danielle3625@gmail.com
 - PDF Resume Link [HERE](https://drive.google.com/file/d/1tM9B9hW65Fx4Ac_rYRhqO-Jfs33ZRUFj/view?usp=sharing)  
