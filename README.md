@@ -14,8 +14,53 @@
 
 [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-c3d7ba83-316c-40ed-a787-9760bfc46cc4/)
 
-#
-#
+## <p align="center"> **Skills**
+
+<div align="center">
+<table>
+   <thead>
+      <tr>
+         <th>Python</th>
+         <th>APL Software</th>
+         <th>Project Management</th>
+	 <th>Event Planning</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <th>Bash</th>
+         <th>AS400 Software</th>
+         <th>Bookkeeping</th>
+	 <th>Strategic Planning</th>
+      </tr>
+      <tr>
+         <th>Git</th>
+         <th>Custom Pension Admin Software</th>
+         <th>Payroll Administration</th>
+	 <th>Budget Management</th>
+      </tr>
+      <tr>
+         <th>Excel</th>
+         <th>Website Development</th>
+         <th>Leadership</th>
+	 <th>Patience</th>
+      </tr>
+      <tr>
+         <th>Word</th>
+         <th>Software Development Team</th>
+         <th>Compliance Management</th>
+	 <th>Self Starter</th>
+      </tr>
+      <tr>
+         <th>HTML</th>
+         <th>Studio One DAW</th>
+         <th>Audio Networking</th>
+	 <th>Creativity</th>
+      </tr>
+   </tbody>
+</table>
+</div>
+
 ## <p align="center"> **Work Experience**   
 
 
