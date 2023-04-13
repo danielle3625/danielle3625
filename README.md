@@ -5,7 +5,7 @@
 - ❤️ I'm also very interested in my husband [Kasey](https://www.kaseyballproductions.com/), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! 
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillsets. 
 - 📫 You may reach me by email: danielle3625@gmail.com
-- PDF Resume Link [HERE](https://drive.google.com/file/d/1Y3puwV9bgr8kIW6ohVS-bWqyoDyCm7yj/view?usp=sharing)  
+- PDF Resume Link [HERE](https://drive.google.com/file/d/1EYyPDNxU8gKSoo3MGD2BMRMIVn0awX5y/view?usp=sharing)  
 
 ## <p align="center"> **Certificates**
 [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-e04da9d1-289d-44db-9c1f-64631ddc5d6b/)
@@ -67,7 +67,11 @@
 #### _**Co-Owner: KB Productions LLC**_ <p align="right">January 2022 - Present
 	
 * KB Productions offers live music staffing, horn section arrangements, and horn sections for hire. 
+* Track DI and acoustic instruments using Presonus Series III Mixers and Studio One DAW
 * Maintain books, develop website, run payroll, produce 1099s for contract employees
+* Manage live sound environments
+* Build in home studio/audio routing
+* Develop and maintain website
 * www.kaseyballproductions.com   
 
 #### _**Benefits Administrator: Registrars of Voters Employees Retirement System (ROVERS)**_	<p align="right"> March 2021 - Present
