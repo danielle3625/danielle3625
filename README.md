@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Danielle Ball! 
 - Seeking to enrich the lives of others and community through all that I do. 
 - Passionate about building a better tomorrow, a better community. I believe it takes disruptive ideas, hard work, collaboration and faith to achieve it.
-- 👀 As far as careers go, I’m interested in becoming a full stack and/or software developer. 
-- ❤️ I'm also very interested in my husband [Kasey](https://www.kaseyballproductions.com/), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! 
+- ❤️ I'm very interested in my husband [Kasey](https://www.kaseyballproductions.com/), music, livesound and studio recording, my pets, family, cooking, gardening, hiking/backpacking, and paddling! There is so much to enjoy! 
 - 💞️ I’m looking to collaborate on projects that will help me grow my skillsets. 
 - 📫 You may reach me by email: danielle3625@gmail.com
-- PDF Resume Link [HERE](https://drive.google.com/file/d/1EYyPDNxU8gKSoo3MGD2BMRMIVn0awX5y/view?usp=sharing)  
+- PDF Resume Link [HERE](https://drive.google.com/file/d/1_TTiMqgo5Rwoe1i7vsiqyHlzi5NS3S1z/view?usp=drivesdk)
 
 ## <p align="center"> **Certificates**
 [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/certificate/UC-e04da9d1-289d-44db-9c1f-64631ddc5d6b/)
