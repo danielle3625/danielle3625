@@ -63,6 +63,20 @@
 ## <p align="center"> **Work Experience**   
 
 
+#### **Benefits Supervisor District Attorneys’ Retirement System (DARS)** <p align="right">July 2023 - Present
+
+
+* Payroll, accounts receivable, accounts payable
+* Calculate retirement benefits per LA statutes and process retirement benefit payroll
+* Track and detail legislative amendments for Board of Trustees, Director
+* Work closely with auditors for legislative compliance, and actuaries for system valuation
+* Manage employees who balance and enter all employee/employer contributions
+* Acknowledge and process all applications for retirement, refunds and transfers - applying appropriate company policy, state statutes and court orders as necessary
+* Calculate and post interest for DROP accounts;
+* Calculate and implement Required Minimum Distributions
+* Membership Counseling
+
+
 #### _**Co-Owner: KB Productions LLC**_ <p align="right">January 2022 - Present
 	
 * KB Productions offers live music staffing, horn section arrangements, and horn sections for hire. 
